@@ -5,3 +5,11 @@ regressionlogs
 
 simple_rnn_imdb
 lstm-rnn-resource
+
+data
+
+.env
+
+*.csv
+
+resources
